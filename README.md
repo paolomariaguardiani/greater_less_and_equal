@@ -1,3 +1,4 @@
+This program is realized with Scratch.
 In this game for children you have to find if a number 
 is greater, less or equal to another number.
 This is the link to the game:
